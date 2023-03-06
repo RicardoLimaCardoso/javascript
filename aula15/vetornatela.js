@@ -11,7 +11,7 @@ for ( let pos in valores ) {
     console.log(`A posição ${pos} tem o valor ${valores[pos]}`)
 }*/
 
-let pos = valores.indexOf(22)
+let pos = valores.indexOf(8)
 
 if (pos == -1) {
     console.log(`Este valor não existe`)
